@@ -1,4 +1,4 @@
-# To become an official maintainer for Project Radiant:
+# To become an official maintainer for Relight:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
@@ -22,6 +22,8 @@ Before you apply to add your device into our list of official devices, you shoul
 
 10. You **MUST** meet all requirements as mentioned [here](requirements.md).
 
-If all is well, you may apply [here](https://github.com/ProjectRadiant/official_devices/issues/new/choose)
+<!--If all is well, you may apply [here](https://github.com/ProjectRadiant/official_devices/issues/new/choose)
 
-If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/ProjectRadiantChat)
+If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/ProjectRadiantChat)-->
+
+Unfortunately we currently **don't accept** official maintainers.
